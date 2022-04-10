@@ -17,5 +17,15 @@
  Respeto Trabajo en equipo Creatividad  </description>
     </item>
     
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://esmesantoyo.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://esmesantoyo.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Esto es lo que he aprendido en las misiones de onboarding, front-end y back-end
+ Python Lógica de programacion básica Jupyter Notebooks Git Github Javascript HTML CSS Vim  </description>
+    </item>
+    
   </channel>
 </rss>
