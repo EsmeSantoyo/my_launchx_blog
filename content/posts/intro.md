@@ -9,4 +9,3 @@ Para mi la cultura en el desarrollo de software se basa en:
 - Respeto
 - Trabajo en equipo
 - Creatividad
-- 
